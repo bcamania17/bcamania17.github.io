@@ -30,12 +30,41 @@ HorizontalBarGraph.prototype.draw = function() {
 };
 
 var graph = new HorizontalBarGraph('#my-graph', [
-  {label: "Team A",  inner_label: "100", value: 100, color: "#e74c3c" },
-  {label: "Team B",  inner_label: "90",   value: 90,  color: "#e67e22" },
-  {label: "Team C",  inner_label: "80",   value: 80,  color: "#27ae60" },
-  {label: "Team D",  inner_label: "70",   value: 70,  color: "#2980b9" },
-  {label: "Team E",  inner_label: "60",   value: 60,  color: "#95a5a6" },
-  {label: "Team F",  inner_label: "50",   value: 50,  color: "#16a085" },
-  {label: "Team G",  inner_label: "40",   value: 40,  color: "#34495e" }
+  {label: "Creamsicles",  inner_label: "0", value: 0, color: "#e74c3c" },
+  {label: "Mandem",  inner_label: "0",   value: 0,  color: "#e67e22" },
+  {label: "Jovan and Friends",  inner_label: "0",   value: 0,  color: "#27ae60" },
+  {label: "Baseball Academy",  inner_label: "0",   value: 0,  color: "#2980b9" },
+  {label: "Extra(ordinary) Eight",  inner_label: "0",   value: 0,  color: "#95a5a6" },
+  {label: "BOW 17OWN",  inner_label: "0",   value: 0,  color: "#16a085" },
+  {label: "The I.J.L.S.A",  inner_label: "0",   value: 0,  color: "#e74c3c" },
+  {label: "Jeelai Beelai",  inner_label: "0",   value: 0,  color: "#e67e22" },
+  {label: "Harrison Won't Pay for Gas",  inner_label: "0",   value: 0,  color: "#27ae60" },
+  {label: "Business Girls",  inner_label: "0",   value: 0,  color: "#2980b9" },
+  {label: "#WeJustWantToGraduate",  inner_label: "0",   value: 0,  color: "#95a5a6" },
+  {label: "Wildcats",  inner_label: "0",   value: 0,  color: "#16a085" },
+  {label: "Fuchboys",  inner_label: "0",   value: 0,  color: "#e74c3c" },
+  {label: "Phineas and Ferb",  inner_label: "0",   value: 0,  color: "#e67e22" },
+  {label: "TBD",  inner_label: "0",   value: 0,  color: "#27ae60" },
+  {label: "hermanos de sangre ",  inner_label: "0",   value: 0,  color: "#2980b9" },
+  {label: "8 inches",  inner_label: "0",   value: 0,  color: "#95a5a6" },
+  {label: "Jesus and His Disciples",  inner_label: "0",   value: 0,  color: "#16a085" },
+  {label: "J.E.L.A.N.I.E.",  inner_label: "0",   value: 0,  color: "#e74c3c" },
+  {label: "BEARS ON FIRE",  inner_label: "0",   value: 0,  color: "#e67e22" },
+  {label: "SIX012",  inner_label: "0",   value: 0,  color: "#27ae60" },
+  {label: "Senioritas",  inner_label: "0",   value: 0,  color: "#2980b9" },
+  {label: "Harrison Won't Pay for Gas",  inner_label: "0",   value: 0,  color: "#95a5a6" },
+  {label: "The Gentlemen",  inner_label: "0",   value: 0,  color: "#16a085" },
+  {label: "French Toast Babies",  inner_label: "0",   value: 0,  color: "#e74c3c" },
+  {label: "Trivial",  inner_label: "0",   value: 0,  color: "#e67e22" },
+  {label: "Quadruplet Threat",  inner_label: "0",   value: 0,  color: "#27ae60" },
+  {label: "Sciengbus + Visuwhales",  inner_label: "0",   value: 0,  color: "#2980b9" },
+  {label: "The Baseball Academy",  inner_label: "0",   value: 0,  color: "#95a5a6" },
+  {label: "Business Girls",  inner_label: "0",   value: 0,  color: "#16a085" },
+  {label: "Harrison Won't Pay for Gas",  inner_label: "0",   value: 0,  color: "#e74c3c" },
+  {label: "bcabellas",  inner_label: "0",   value: 0,  color: "#e67e22" },
+  {label: "Cuhsine Seta",  inner_label: "0",   value: 0,  color: "#27ae60" },
+  {label: "The Popsicles ",  inner_label: "0",   value: 0,  color: "#2980b9" },
+
+
 ]);
 graph.draw();
