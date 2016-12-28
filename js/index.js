@@ -52,19 +52,14 @@ var graph = new HorizontalBarGraph('#my-graph', [
   {label: "BEARS ON FIRE",  inner_label: "0",   value: 0,  color: "#e67e22" },
   {label: "SIX012",  inner_label: "0",   value: 0,  color: "#27ae60" },
   {label: "Senioritas",  inner_label: "0",   value: 0,  color: "#2980b9" },
-  {label: "Harrison Won't Pay for Gas",  inner_label: "0",   value: 0,  color: "#95a5a6" },
-  {label: "The Gentlemen",  inner_label: "0",   value: 0,  color: "#16a085" },
-  {label: "French Toast Babies",  inner_label: "0",   value: 0,  color: "#e74c3c" },
-  {label: "Trivial",  inner_label: "0",   value: 0,  color: "#e67e22" },
-  {label: "Quadruplet Threat",  inner_label: "0",   value: 0,  color: "#27ae60" },
-  {label: "Sciengbus + Visuwhales",  inner_label: "0",   value: 0,  color: "#2980b9" },
-  {label: "The Baseball Academy",  inner_label: "0",   value: 0,  color: "#95a5a6" },
-  {label: "Business Girls",  inner_label: "0",   value: 0,  color: "#16a085" },
-  {label: "Harrison Won't Pay for Gas",  inner_label: "0",   value: 0,  color: "#e74c3c" },
-  {label: "bcabellas",  inner_label: "0",   value: 0,  color: "#e67e22" },
-  {label: "Cuhsine Seta",  inner_label: "0",   value: 0,  color: "#27ae60" },
-  {label: "The Popsicles ",  inner_label: "0",   value: 0,  color: "#2980b9" },
-
-
+  {label: "The Gentlemen",  inner_label: "0",   value: 0,  color: "#95a5a6" },
+  {label: "French Toast Babies",  inner_label: "0",   value: 0,  color: "#16a085" },
+  {label: "Trivial",  inner_label: "0",   value: 0,  color: "#e74c3c" },
+  {label: "Quadruplet Threat",  inner_label: "0",   value: 0,  color: "#e67e22" },
+  {label: "Sciengbus + Visuwhales",  inner_label: "0",   value: 0,  color: "#27ae60" },
+  {label: "The Baseball Academy",  inner_label: "0",   value: 0,  color: "#2980b9" },
+  {label: "bcabellas",  inner_label: "0",   value: 0,  color: "#95a5a6" },
+  {label: "Cuhsine Seta",  inner_label: "0",   value: 0,  color: "#16a085" },
+  {label: "The Popsicles",  inner_label: "0",   value: 0,  color: "#e74c3c" },
 ]);
 graph.draw();
