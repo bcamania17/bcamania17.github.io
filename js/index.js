@@ -42,7 +42,7 @@ var graph = new HorizontalBarGraph('#my-graph', [
   {label: "Business Girls",              inner_label: "0",   value: 0,  color: "#2980b9" },
   {label: "#WeJustWantToGraduate",       inner_label: "0",   value: 0,  color: "#95a5a6" },
   {label: "Wildcats",                    inner_label: "0",   value: 0,  color: "#16a085" },
-  {label: "Fuchboys",                    inner_label: "0",   value: 0,  color: "#e74c3c" },
+  {label: "Fyfers",                    inner_label: "0",   value: 0,  color: "#e74c3c" },
   {label: "Phineas and Ferb",            inner_label: "0",   value: 0,  color: "#e67e22" },
   {label: "TBD",                         inner_label: "0",   value: 0,  color: "#27ae60" },
   {label: "hermanos de sangre ",         inner_label: "0",   value: 0,  color: "#2980b9" },
