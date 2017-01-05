@@ -32,7 +32,7 @@ HorizontalBarGraph.prototype.draw = function() {
 var graph = new HorizontalBarGraph('#my-graph', [
   {label: "Creamsicles",                 inner_label: "0",   value: 0,  color: "#e74c3c" },
   {label: "Mandem",                      inner_label: "0",   value: 0,  color: "#e67e22" },
-  {label: "Jovan and Friends",           inner_label: "0",   value: 0,  color: "#27ae60" },
+  {label: "brazy yeeks",                 inner_label: "0",   value: 0,  color: "#27ae60" },
   {label: "Baseball Academy",            inner_label: "0",   value: 0,  color: "#2980b9" },
   {label: "Extra(ordinary) Eight",       inner_label: "0",   value: 0,  color: "#95a5a6" },
   {label: "BOW 17OWN",                   inner_label: "0",   value: 0,  color: "#16a085" },
