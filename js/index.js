@@ -47,7 +47,7 @@ var graph = new HorizontalBarGraph('#my-graph', [
   {label: "TBD",                         inner_label: "0",   value: 0,  color: "#27ae60" },
   {label: "hermanos de sangre ",         inner_label: "0",   value: 0,  color: "#2980b9" },
   {label: "20.32 centimeters",           inner_label: "0",   value: 0,  color: "#95a5a6" },
-  {label: "Jesus and His Disciples",     inner_label: "0",   value: 0,  color: "#16a085" },
+  {label: "Jaesus and His Disciples",    inner_label: "0",   value: 0,  color: "#16a085" },
   {label: "J.E.L.A.N.I.E.",              inner_label: "0",   value: 0,  color: "#e74c3c" },
   {label: "BEARS ON FIRE",               inner_label: "0",   value: 0,  color: "#e67e22" },
   {label: "SIX012",                      inner_label: "0",   value: 0,  color: "#27ae60" },
