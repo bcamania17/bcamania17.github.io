@@ -30,7 +30,7 @@ HorizontalBarGraph.prototype.draw = function() {
 };
 
 var graph = new HorizontalBarGraph('#my-graph', [
-  {label: "Creamsicles",                 inner_label: "0",   value: 0,  color: "#e74c3c" },
+  {label: "Creamsicles",                 inner_label: "200",   value: 200,  color: "#e74c3c" },
   {label: "Mandem",                      inner_label: "0",   value: 0,  color: "#e67e22" },
   {label: "brazy yeeks",                 inner_label: "0",   value: 0,  color: "#27ae60" },
   {label: "Baseball Academy",            inner_label: "0",   value: 0,  color: "#2980b9" },
@@ -48,7 +48,7 @@ var graph = new HorizontalBarGraph('#my-graph', [
   {label: "hermanos de sangre ",         inner_label: "100",   value: 100,  color: "#2980b9" },
   {label: "20.32 centimeters",           inner_label: "50",   value: 50,  color: "#95a5a6" },
   {label: "Jaesus and His Disciples",    inner_label: "0",   value: 0,  color: "#16a085" },
-  {label: "J.E.L.A.N.I.E.",              inner_label: "0",   value: 0,  color: "#e74c3c" },
+  {label: "J.E.L.A.N.I.E.",              inner_label: "1100",   value: 1100,  color: "#e74c3c" },
   {label: "BEARS ON FIRE",               inner_label: "0",   value: 0,  color: "#e67e22" },
   {label: "SIX012",                      inner_label: "0",   value: 0,  color: "#27ae60" },
   {label: "Senioritas",                  inner_label: "0",   value: 0,  color: "#2980b9" },
@@ -56,7 +56,7 @@ var graph = new HorizontalBarGraph('#my-graph', [
   {label: "French Toast Babies",         inner_label: "0",   value: 0,  color: "#16a085" },
   {label: "Trivial",                     inner_label: "400",   value: 400,  color: "#e74c3c" },
   {label: "Quadruplet Threat",           inner_label: "0",   value: 0,  color: "#e67e22" },
-  {label: "Sciengbus + Visuwhales",      inner_label: "0",   value: 0,  color: "#27ae60" },
+  {label: "Sciengbus + Visuwhales",      inner_label: "50",   value: 50,  color: "#27ae60" },
   {label: "The Baseball Academy",        inner_label: "0",   value: 0,  color: "#2980b9" },
   {label: "bcabellas",                   inner_label: "0",   value: 0,  color: "#95a5a6" },
   {label: "Cuhsine Seta",                inner_label: "0",   value: 0,  color: "#16a085" },
