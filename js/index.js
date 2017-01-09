@@ -43,7 +43,7 @@ var graph = new HorizontalBarGraph('#my-graph', [
   {label: "#WeJustWantToGraduate",       inner_label: "0",   value: 0,  color: "#95a5a6" },
   {label: "Wildcats",                    inner_label: "0",   value: 0,  color: "#16a085" },
   {label: "Fyfers",                      inner_label: "0",   value: 0,  color: "#e74c3c" },
-  {label: "Phineas and Ferb",            inner_label: "0",   value: 0,  color: "#e67e22" },
+  {label: "Phineas and Ferb",            inner_label: "500",   value: 500,  color: "#e67e22" },
   {label: "TBD",                         inner_label: "0",   value: 0,  color: "#27ae60" },
   {label: "hermanos de sangre ",         inner_label: "100",   value: 100,  color: "#2980b9" },
   {label: "20.32 centimeters",           inner_label: "50",   value: 50,  color: "#95a5a6" },
