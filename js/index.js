@@ -38,7 +38,6 @@ var graph = new HorizontalBarGraph('#my-graph', [
   {label: "BOW 17OWN",                   inner_label: "0",   value: 0,  color: "#16a085" },
   {label: "The I.J.L.S.A",               inner_label: "0",   value: 0,  color: "#e74c3c" },
   {label: "Jeelai Beelai",               inner_label: "0",   value: 0,  color: "#e67e22" },
-  {label: "Harrison Won't Pay for Gas",  inner_label: "0",   value: 0,  color: "#27ae60" },
   {label: "Business Girls",              inner_label: "0",   value: 0,  color: "#2980b9" },
   {label: "#WeJustWantToGraduate",       inner_label: "0",   value: 0,  color: "#95a5a6" },
   {label: "Wildcats",                    inner_label: "0",   value: 0,  color: "#16a085" },
