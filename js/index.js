@@ -30,7 +30,7 @@ HorizontalBarGraph.prototype.draw = function() {
 };
 
 var graph = new HorizontalBarGraph('#my-graph', [
-  {label: "Creamsicles",                 inner_label: "350",   value: 350,  color: "#e74c3c" },
+  {label: "Creamsicles",                 inner_label: "450",   value: 450,  color: "#e74c3c" },
   {label: "Mandem",                      inner_label: "0",   value: 0,  color: "#e67e22" },
   {label: "brazy yeeks",                 inner_label: "0",   value: 0,  color: "#27ae60" },
   {label: "Baseball Academy",            inner_label: "0",   value: 0,  color: "#2980b9" },
@@ -40,12 +40,12 @@ var graph = new HorizontalBarGraph('#my-graph', [
   {label: "Jeelai Beelai",               inner_label: "0",   value: 0,  color: "#e67e22" },
   {label: "Business Girls",              inner_label: "0",   value: 0,  color: "#2980b9" },
   {label: "#WeJustWantToGraduate",       inner_label: "0",   value: 0,  color: "#95a5a6" },
-  {label: "Wildcats",                    inner_label: "650",   value: 650,  color: "#16a085" },
-  {label: "Fyfers",                      inner_label: "0",   value: 0,  color: "#e74c3c" },
+  {label: "Wildcats",                    inner_label: "900",   value: 900,  color: "#16a085" },
+  {label: "Fyfers",                      inner_label: "350",   value: 350,  color: "#e74c3c" },
   {label: "Phineas and Ferb",            inner_label: "500",   value: 500,  color: "#e67e22" },
   {label: "TBD",                         inner_label: "0",   value: 0,  color: "#27ae60" },
   {label: "hermanos de sangre ",         inner_label: "300",   value: 300,  color: "#2980b9" },
-  {label: "20.32 centimeters",           inner_label: "4750",   value: 4750,  color: "#95a5a6" },
+  {label: "20.32 centimeters",           inner_label: "4850",   value: 4850,  color: "#95a5a6" },
   {label: "Jaesus and His Disciples",    inner_label: "0",   value: 0,  color: "#16a085" },
   {label: "J.E.L.A.N.I.E.",              inner_label: "4250",   value: 4250,  color: "#e74c3c" },
   {label: "BEARS ON FIRE",               inner_label: "0",   value: 0,  color: "#e67e22" },
@@ -55,7 +55,7 @@ var graph = new HorizontalBarGraph('#my-graph', [
   {label: "French Toast Babies",         inner_label: "0",   value: 0,  color: "#16a085" },
   {label: "Trivial",                     inner_label: "400",   value: 400,  color: "#e74c3c" },
   {label: "Quadruplet Threat",           inner_label: "0",   value: 0,  color: "#e67e22" },
-  {label: "Sciengbus + Visuwhales",      inner_label: "200",   value: 200,  color: "#27ae60" },
+  {label: "Sciengbus + Visuwhales",      inner_label: "300",   value: 300,  color: "#27ae60" },
   {label: "The Baseball Academy",        inner_label: "0",   value: 0,  color: "#2980b9" },
   {label: "bcabellas",                   inner_label: "0",   value: 0,  color: "#95a5a6" },
   {label: "Cuhsine Seta",                inner_label: "0",   value: 0,  color: "#16a085" },
