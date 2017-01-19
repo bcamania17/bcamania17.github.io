@@ -43,7 +43,7 @@ var graph = new HorizontalBarGraph('#my-graph', [
   {label: "Wildcats",                    inner_label: "900",   value: 900,  color: "#16a085" },
   {label: "Fyfers",                      inner_label: "350",   value: 350,  color: "#e74c3c" },
   {label: "Phineas and Ferb",            inner_label: "500",   value: 500,  color: "#e67e22" },
-  {label: "The Door Busters",                         inner_label: "0",   value: 0,  color: "#27ae60" },
+  {label: "Detal Man",                         inner_label: "0",   value: 0,  color: "#27ae60" },
   {label: "hermanos de sangre ",         inner_label: "300",   value: 300,  color: "#2980b9" },
   {label: "20.32 centimeters",           inner_label: "4850",   value: 4850,  color: "#95a5a6" },
   {label: "Jaesus and His Disciples",    inner_label: "0",   value: 0,  color: "#16a085" },
