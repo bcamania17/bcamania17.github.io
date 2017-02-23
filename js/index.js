@@ -40,7 +40,7 @@ var graph = new HorizontalBarGraph('#my-graph', [
   {label: "Jeelai Beelai",               inner_label: "750",   value: 750,  color: "#e67e22" },
   {label: "Business Girls",              inner_label: "0",   value: 0,  color: "#2980b9" },
   {label: "#WeJustWantToGraduate",       inner_label: "0",   value: 0,  color: "#95a5a6" },
-  {label: "Wildcats",                    inner_label: "3200",   value: 3200,  color: "#16a085" },
+  {label: "Wildcats",                    inner_label: "3500",   value: 3500,  color: "#16a085" },
   {label: "Fyfers",                      inner_label: "2500",   value: 2500,  color: "#e74c3c" },
   {label: "Phineas and Ferb",            inner_label: "6850",   value: 6850,  color: "#e67e22" },
   {label: "Detal Man",                   inner_label: "0",   value: 0,  color: "#27ae60" },
